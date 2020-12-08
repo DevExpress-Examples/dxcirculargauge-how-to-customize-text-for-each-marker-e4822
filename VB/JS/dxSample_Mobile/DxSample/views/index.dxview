@@ -1,0 +1,5 @@
+<div data-options="dxView : { name: 'Index', title: 'Home' } ">
+    <div data-options="dxContent : { targetPlaceholder: 'content' } ">
+        <div id="chartContainer" style="height: 650px"></div>
+    </div>
+</div>
