@@ -1,8 +1,9 @@
-# dxCircularGauge - How to customize text for each marker 
+# (Obsolete) dxCircularGauge - How to customize text for each marker 
 
+This example is now obsolete. You can find an actual example in our technical demos:
 
-<p>This example illustrates how to define a different text for different markers via the <a href="http://chartjs.devexpress.com/ApiReference/dxCircularGauge/Configuration/commonMarkerSettings/text#customizeText"><u>dxCircularGauge.commonMarkerSettings.text.customizeText</u></a> callback function.</p>
-
-<br/>
-
-
+[Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gauges/GaugeTooltip/Angular/Light/)<br/>
+[React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gauges/GaugeTooltip/React/Light/)<br/>
+[Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gauges/GaugeTooltip/Vue/Light/)<br/>
+[ASP.NET](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gauges/GaugeTooltip/NetCore/Light/)<br/>
+[jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gauges/GaugeTooltip/jQuery/Light/)<br/>
